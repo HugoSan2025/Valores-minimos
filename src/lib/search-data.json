@@ -1,470 +1,480 @@
 [
  {
+  "Analito": "Anti TPO",
+  "Muestra": "Suero, Plasma (heparina litio)",
+  "Límite de Blanco (LB)": "8 UI\/mL",
+  "Límite de Detección (LD)": "9 UI\/mL",
+  "Límite de Cuantificación (LC)": "15 UI\/mL",
+  "Dilucion recomendada": "1:5",
+  "Diluyente": "Diluyente Universal",
+  "Valor Maximo Reportable": "> 600 UI\/mL"
+ },
+ {
   "Analito": "Acido Urico",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "0.2 mg/dL",
-  "Límite de Detección (LD)": "0.2 mg/dL",
-  "Límite de Cuantificación (LC)": "0.2 mg/dL",
+  "Límite de Blanco (LB)": "0.2 mg\/dL",
+  "Límite de Detección (LD)": "0.2 mg\/dL",
+  "Límite de Cuantificación (LC)": "0.2 mg\/dL",
   "Dilucion recomendada": "1:2.5",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "62.5 mg/dL (25 mg/dL x 2.5)"
+  "Valor Maximo Reportable": "62.5 mg\/dL (25 mg\/dL x 2.5)"
  },
  {
   "Analito": "Acido Urico",
   "Muestra": "Orina",
-  "Límite de Blanco (LB)": "2.2 mg/dL",
-  "Límite de Detección (LD)": "2.2 mg/dL",
-  "Límite de Cuantificación (LC)": "2.2 mg/dL",
+  "Límite de Blanco (LB)": "2.2 mg\/dL",
+  "Límite de Detección (LD)": "2.2 mg\/dL",
+  "Límite de Cuantificación (LC)": "2.2 mg\/dL",
   "Dilucion recomendada": "1:2.5",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "687.5 mg/dL (275 mg/dL x 2.5)"
+  "Valor Maximo Reportable": "687.5 mg\/dL (275 mg\/dL x 2.5)"
  },
  {
   "Analito": "Acido Valproico",
-  "Muestra": "Suero, Plasma (heparina litio, heparina Na, EDTA D/T)",
-  "Límite de Blanco (LB)": "2.8 ug/ml",
-  "Límite de Detección (LD)": "2.8 ug/ml",
-  "Límite de Cuantificación (LC)": "6.0 ug/ml",
+  "Muestra": "Suero, Plasma (heparina litio, heparina Na, EDTA D\/T)",
+  "Límite de Blanco (LB)": "2.8 ug\/ml",
+  "Límite de Detección (LD)": "2.8 ug\/ml",
+  "Límite de Cuantificación (LC)": "6.0 ug\/ml",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Preciset TDM I ",
-  "Valor Maximo Reportable": "300 ug/mL (150 ug/mL x 2)"
+  "Valor Maximo Reportable": "300 ug\/mL (150 ug\/mL x 2)"
  },
  {
   "Analito": "ACTH",
-  "Muestra": "Plasma con EDTA D/T",
-  "Límite de Blanco (LB)": "1.00 pg/mL",
-  "Límite de Detección (LD)": "1.5 pg/mL ",
-  "Límite de Cuantificación (LC)": "3.0 pg/mL ",
+  "Muestra": "Plasma con EDTA D\/T",
+  "Límite de Blanco (LB)": "1.00 pg\/mL",
+  "Límite de Detección (LD)": "1.5 pg\/mL ",
+  "Límite de Cuantificación (LC)": "3.0 pg\/mL ",
   "Dilucion recomendada": "No necesaria",
-  "Diluyente": "N/A",
-  "Valor Maximo Reportable": "> 2000 pg/mL"
+  "Diluyente": "N\/A",
+  "Valor Maximo Reportable": "> 2000 pg\/mL"
  },
  {
   "Analito": "AFP",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.91 ng/mL",
-  "Límite de Detección (LD)": "1.82 ng/mL",
-  "Límite de Cuantificación (LC)": "2.72 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.91 ng\/mL",
+  "Límite de Detección (LD)": "1.82 ng\/mL",
+  "Límite de Cuantificación (LC)": "2.72 ng\/mL",
   "Dilucion recomendada": "1:50",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "> 60500 ng/mL"
+  "Valor Maximo Reportable": "> 60500 ng\/mL"
  },
  {
   "Analito": "Alanina Aminotransferasa",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "5 U/L ",
-  "Límite de Detección (LD)": "5 U/L",
-  "Límite de Cuantificación (LC)": "5 U/L",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "5 U\/L ",
+  "Límite de Detección (LD)": "5 U\/L",
+  "Límite de Cuantificación (LC)": "5 U\/L",
   "Dilucion recomendada": "1:10",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "7000 U/L (700 U/L x 10)"
+  "Valor Maximo Reportable": "7000 U\/L (700 U\/L x 10)"
  },
  {
   "Analito": "Albumina",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "0.1 gr/dl",
-  "Límite de Detección (LD)": "0.3 gr/dl",
-  "Límite de Cuantificación (LC)": "0.3 gr/dl",
+  "Límite de Blanco (LB)": "0.1 gr\/dl",
+  "Límite de Detección (LD)": "0.3 gr\/dl",
+  "Límite de Cuantificación (LC)": "0.3 gr\/dl",
   "Dilucion recomendada": "1:1.27",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "12.827 g/dl (10.1 g/dl x 1.27)"
+  "Valor Maximo Reportable": "12.827 g\/dl (10.1 g\/dl x 1.27)"
  },
  {
   "Analito": "Albumina",
   "Muestra": "Orina",
-  "Límite de Blanco (LB)": "2 mg/L ",
-  "Límite de Detección (LD)": "3 mg/L",
-  "Límite de Cuantificación (LC)": "12 mg/L ",
+  "Límite de Blanco (LB)": "2 mg\/L ",
+  "Límite de Detección (LD)": "3 mg\/L",
+  "Límite de Cuantificación (LC)": "12 mg\/L ",
   "Dilucion recomendada": "1:11",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "4400 mg/L (400 mg/L x 11)"
+  "Valor Maximo Reportable": "4400 mg\/L (400 mg\/L x 11)"
  },
  {
   "Analito": "Albumina",
   "Muestra": "LCR",
-  "Límite de Blanco (LB)": "20 mg/L",
-  "Límite de Detección (LD)": "36 mg/L ",
-  "Límite de Cuantificación (LC)": "50 mg/L",
+  "Límite de Blanco (LB)": "20 mg\/L",
+  "Límite de Detección (LD)": "36 mg\/L ",
+  "Límite de Cuantificación (LC)": "50 mg\/L",
   "Dilucion recomendada": "1:6.2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "29760 mg/L (4800 mg/L x 6.2)"
+  "Valor Maximo Reportable": "29760 mg\/L (4800 mg\/L x 6.2)"
  },
  {
   "Analito": "Amilasa",
   "Muestra": "Suero, Orina, Plasma (heparina litio)",
-  "Límite de Blanco (LB)": "3 U/L",
-  "Límite de Detección (LD)": "3 U/L",
-  "Límite de Cuantificación (LC)": "3 U/L",
+  "Límite de Blanco (LB)": "3 U\/L",
+  "Límite de Detección (LD)": "3 U\/L",
+  "Límite de Cuantificación (LC)": "3 U\/L",
   "Dilucion recomendada": "1:5",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "7500 U/L (1500 U/L x 5)"
+  "Valor Maximo Reportable": "7500 U\/L (1500 U\/L x 5)"
  },
  {
   "Analito": "Antimulleriana",
   "Muestra": "Suero, Plasma (heparina litio)",
-  "Límite de Blanco (LB)": "0.007 ng/mL",
-  "Límite de Detección (LD)": "0.01 ng/mL",
-  "Límite de Cuantificación (LC)": "0.030 ng/mL",
+  "Límite de Blanco (LB)": "0.007 ng\/mL",
+  "Límite de Detección (LD)": "0.01 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.030 ng\/mL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "Hasta 46 ng/mL para muestras diluidas 1/2"
+  "Valor Maximo Reportable": "Hasta 46 ng\/mL para muestras diluidas 1\/2"
  },
  {
   "Analito": "Aspartato Aminotransferasa",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "5 U/L ",
-  "Límite de Detección (LD)": "5 U/L",
-  "Límite de Cuantificación (LC)": "5 U/L",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "5 U\/L ",
+  "Límite de Detección (LD)": "5 U\/L",
+  "Límite de Cuantificación (LC)": "5 U\/L",
   "Dilucion recomendada": "1:10",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "7000 U/L (700 U/L x 10)"
+  "Valor Maximo Reportable": "7000 U\/L (700 U\/L x 10)"
  },
  {
   "Analito": "ASO",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "20 UI/mL",
-  "Límite de Detección (LD)": "20 UI/mL",
-  "Límite de Cuantificación (LC)": "20 UI/mL",
+  "Límite de Blanco (LB)": "20 UI\/mL",
+  "Límite de Detección (LD)": "20 UI\/mL",
+  "Límite de Cuantificación (LC)": "20 UI\/mL",
   "Dilucion recomendada": "1:6.1",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "3660 UI/mL (600 UI/mL x 6.1)"
+  "Valor Maximo Reportable": "3660 UI\/mL (600 UI\/mL x 6.1)"
  },
  {
   "Analito": "Bilirrubina Directa Jendrassik-Grof",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.06 mg/dL",
-  "Límite de Detección (LD)": "0.09 mg/dL",
-  "Límite de Cuantificación (LC)": "0.18 mg/dL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.06 mg\/dL",
+  "Límite de Detección (LD)": "0.09 mg\/dL",
+  "Límite de Cuantificación (LC)": "0.18 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "H2O",
-  "Valor Maximo Reportable": "34 mg/dl (17 mg/dl x 2)"
+  "Valor Maximo Reportable": "34 mg\/dl (17 mg\/dl x 2)"
  },
  {
   "Analito": "Bilirrubina Directa Doumas",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.05 mg/dL",
-  "Límite de Detección (LD)": "0.07 mg/dL",
-  "Límite de Cuantificación (LC)": "0.08 mg/dL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.05 mg\/dL",
+  "Límite de Detección (LD)": "0.07 mg\/dL",
+  "Límite de Cuantificación (LC)": "0.08 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "H2O",
-  "Valor Maximo Reportable": "28 mg/dl (14 mg/dl x 2)"
+  "Valor Maximo Reportable": "28 mg\/dl (14 mg\/dl x 2)"
  },
  {
   "Analito": "Bilirrubina Total",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.099 mg/dL)",
-  "Límite de Detección (LD)": "0.146 mg/dL",
-  "Límite de Cuantificación (LC)": "0.146 mg/dL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.099 mg\/dL)",
+  "Límite de Detección (LD)": "0.146 mg\/dL",
+  "Límite de Cuantificación (LC)": "0.146 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "76 mg/dl (38 mg/dl x 2)"
+  "Valor Maximo Reportable": "76 mg\/dl (38 mg\/dl x 2)"
  },
  {
   "Analito": "CA 125",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.6 U/mL",
-  "Límite de Detección (LD)": "1.2 U/mL",
-  "Límite de Cuantificación (LC)": "2.0 U/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.6 U\/mL",
+  "Límite de Detección (LD)": "1.2 U\/mL",
+  "Límite de Cuantificación (LC)": "2.0 U\/mL",
   "Dilucion recomendada": "1:5",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": ">25000 U/mL"
+  "Valor Maximo Reportable": ">25000 U\/mL"
  },
  {
   "Analito": "CA 15-3",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "1.0 U/mL",
-  "Límite de Detección (LD)": "1.5 U/mL",
-  "Límite de Cuantificación (LC)": "3 U/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "1.0 U\/mL",
+  "Límite de Detección (LD)": "1.5 U\/mL",
+  "Límite de Cuantificación (LC)": "3 U\/mL",
   "Dilucion recomendada": "1:10",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": ">3000 U/mL"
+  "Valor Maximo Reportable": ">3000 U\/mL"
  },
  {
   "Analito": "CA 19-9",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "1.5 U/mL",
-  "Límite de Detección (LD)": "2 U/mL",
-  "Límite de Cuantificación (LC)": "9 U/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "1.5 U\/mL",
+  "Límite de Detección (LD)": "2 U\/mL",
+  "Límite de Cuantificación (LC)": "9 U\/mL",
   "Dilucion recomendada": "1:10",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": ">10000 U/mL"
+  "Valor Maximo Reportable": ">10000 U\/mL"
  },
  {
   "Analito": "CA 72-4",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.5 U/mL",
-  "Límite de Detección (LD)": "1.0 U/mL",
-  "Límite de Cuantificación (LC)": "1.5 U/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.5 U\/mL",
+  "Límite de Detección (LD)": "1.0 U\/mL",
+  "Límite de Cuantificación (LC)": "1.5 U\/mL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": ">500 U/mL"
+  "Valor Maximo Reportable": ">500 U\/mL"
  },
  {
   "Analito": "Calcio",
   "Muestra": "Orina",
-  "Límite de Blanco (LB)": "0.4 mg/dL",
-  "Límite de Detección (LD)": "0.8 mg/dL",
-  "Límite de Cuantificación (LC)": "0.8 mg/dL",
+  "Límite de Blanco (LB)": "0.4 mg\/dL",
+  "Límite de Detección (LD)": "0.8 mg\/dL",
+  "Límite de Cuantificación (LC)": "0.8 mg\/dL",
   "Dilucion recomendada": "1:5",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "150.5 mg/dL (30.1 mg/dL x 5)"
+  "Valor Maximo Reportable": "150.5 mg\/dL (30.1 mg\/dL x 5)"
  },
  {
   "Analito": "Calcio",
   "Muestra": "Suero, Plasma (heparina litio)",
-  "Límite de Blanco (LB)": "0.4 mg/dL",
-  "Límite de Detección (LD)": "0.8 mg/dL",
-  "Límite de Cuantificación (LC)": "0.8 mg/dL",
+  "Límite de Blanco (LB)": "0.4 mg\/dL",
+  "Límite de Detección (LD)": "0.8 mg\/dL",
+  "Límite de Cuantificación (LC)": "0.8 mg\/dL",
   "Dilucion recomendada": "1:5",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "100.5 mg/dL (20.1 mg/dL x 5)"
+  "Valor Maximo Reportable": "100.5 mg\/dL (20.1 mg\/dL x 5)"
  },
  {
   "Analito": "CEA",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.3 ng/mL",
-  "Límite de Detección (LD)": "0.6 ng/mL",
-  "Límite de Cuantificación (LC)": "1.8 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.3 ng\/mL",
+  "Límite de Detección (LD)": "0.6 ng\/mL",
+  "Límite de Cuantificación (LC)": "1.8 ng\/mL",
   "Dilucion recomendada": "1:50",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "> 50000 ng/mL"
+  "Valor Maximo Reportable": "> 50000 ng\/mL"
  },
  {
   "Analito": "Ceruloplasmina",
   "Muestra": "Suero, Plasma (heparina litio)",
-  "Límite de Blanco (LB)": "0.03 g/L",
-  "Límite de Detección (LD)": "0.03 g/L",
-  "Límite de Cuantificación (LC)": "0.03 g/L",
+  "Límite de Blanco (LB)": "0.03 g\/L",
+  "Límite de Detección (LD)": "0.03 g\/L",
+  "Límite de Cuantificación (LC)": "0.03 g\/L",
   "Dilucion recomendada": "1:3",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "4.2 g/L (1.4 g/L x 3)"
+  "Valor Maximo Reportable": "4.2 g\/L (1.4 g\/L x 3)"
  },
  {
   "Analito": "Cloruro (Cl⁻)",
   "Muestra": "Suero, Plasma (heparina litio)",
-  "Límite de Blanco (LB)": "10 mmol/L",
-  "Límite de Detección (LD)": "10 mmol/L",
-  "Límite de Cuantificación (LC)": "20 mmol/L",
-  "Dilucion recomendada": "15 µL de muestra / 450 µL de Diluyente",
+  "Límite de Blanco (LB)": "10 mmol\/L",
+  "Límite de Detección (LD)": "10 mmol\/L",
+  "Límite de Cuantificación (LC)": "20 mmol\/L",
+  "Dilucion recomendada": "15 µL de muestra \/ 450 µL de Diluyente",
   "Diluyente": "ISE Diluyente Gen.2",
-  "Valor Maximo Reportable": "140 mmol/L."
+  "Valor Maximo Reportable": "140 mmol\/L."
  },
  {
   "Analito": "Cloruro (Cl⁻)",
   "Muestra": "Orina",
-  "Límite de Blanco (LB)": "3.7 mmol/L",
-  "Límite de Detección (LD)": "3.9 mmol/L",
-  "Límite de Cuantificación (LC)": "11.6 mmol/L",
-  "Dilucion recomendada": "15 µL de muestra / 450 µL de Diluyente",
+  "Límite de Blanco (LB)": "3.7 mmol\/L",
+  "Límite de Detección (LD)": "3.9 mmol\/L",
+  "Límite de Cuantificación (LC)": "11.6 mmol\/L",
+  "Dilucion recomendada": "15 µL de muestra \/ 450 µL de Diluyente",
   "Diluyente": "ISE Diluyente Gen.2",
-  "Valor Maximo Reportable": "375 mmol/L"
+  "Valor Maximo Reportable": "375 mmol\/L"
  },
  {
   "Analito": "Colesterol",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "3.86 mg/dL",
-  "Límite de Detección (LD)": "3.86 mg/dL",
-  "Límite de Cuantificación (LC)": "3.86 mg/dL",
+  "Límite de Blanco (LB)": "3.86 mg\/dL",
+  "Límite de Detección (LD)": "3.86 mg\/dL",
+  "Límite de Cuantificación (LC)": "3.86 mg\/dL",
   "Dilucion recomendada": "1:10",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "8000 mg/dL (800 mg/dL x 10)"
+  "Valor Maximo Reportable": "8000 mg\/dL (800 mg\/dL x 10)"
  },
  {
   "Analito": "Colesterol HDL ",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "3.09 mg/dL",
-  "Límite de Detección (LD)": "3.09 mg/dL",
-  "Límite de Cuantificación (LC)": "3.09 mg/dL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "3.09 mg\/dL",
+  "Límite de Detección (LD)": "3.09 mg\/dL",
+  "Límite de Cuantificación (LC)": "3.09 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "300 mg/dL (150 mg/dL x 2)"
+  "Valor Maximo Reportable": "300 mg\/dL (150 mg\/dL x 2)"
  },
  {
   "Analito": "Colesterol LDL ",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "3.87 mg/dL",
-  "Límite de Detección (LD)": "3.87 mg/dL",
-  "Límite de Cuantificación (LC)": "3.87 mg/dL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "3.87 mg\/dL",
+  "Límite de Detección (LD)": "3.87 mg\/dL",
+  "Límite de Cuantificación (LC)": "3.87 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "1098 mg/dL (549 mg/dL x 2)"
+  "Valor Maximo Reportable": "1098 mg\/dL (549 mg\/dL x 2)"
  },
  {
   "Analito": "Colinesterasa",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "N/D",
-  "Límite de Detección (LD)": "100 U/L (1.67 µkat/L)",
-  "Límite de Cuantificación (LC)": "100 U/L (1.67 µkat/L)",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "N\/D",
+  "Límite de Detección (LD)": "100 U\/L (1.67 µkat\/L)",
+  "Límite de Cuantificación (LC)": "100 U\/L (1.67 µkat\/L)",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "28000 U/L (14000 U/L x 2)"
+  "Valor Maximo Reportable": "28000 U\/L (14000 U\/L x 2)"
  },
  {
   "Analito": "Complemento C3",
   "Muestra": "Suero, Plasma (heparina litio)",
-  "Límite de Blanco (LB)": "4 mg/dL",
-  "Límite de Detección (LD)": "4 mg/dL",
-  "Límite de Cuantificación (LC)": "5 mg/dL",
+  "Límite de Blanco (LB)": "4 mg\/dL",
+  "Límite de Detección (LD)": "4 mg\/dL",
+  "Límite de Cuantificación (LC)": "5 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "1000 mg/dL/L (500 mg/dL x 2)"
+  "Valor Maximo Reportable": "1000 mg\/dL\/L (500 mg\/dL x 2)"
  },
  {
   "Analito": "Complemento C4",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "2 mg/dL",
-  "Límite de Detección (LD)": "2 mg/dL",
-  "Límite de Cuantificación (LC)": "2 mg/dL",
+  "Límite de Blanco (LB)": "2 mg\/dL",
+  "Límite de Detección (LD)": "2 mg\/dL",
+  "Límite de Cuantificación (LC)": "2 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "200 mg/dLL (100 mg/dL x 2)"
+  "Valor Maximo Reportable": "200 mg\/dLL (100 mg\/dL x 2)"
  },
  {
   "Analito": "Cortisol",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T) y Saliva (Salitiovette)",
-  "Límite de Blanco (LB)": "0.036 µg/dL",
-  "Límite de Detección (LD)": "0.054 µg/dL",
-  "Límite de Cuantificación (LC)": "0.109 µg/dL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T) y Saliva (Salitiovette)",
+  "Límite de Blanco (LB)": "0.036 µg\/dL",
+  "Límite de Detección (LD)": "0.054 µg\/dL",
+  "Límite de Cuantificación (LC)": "0.109 µg\/dL",
   "Dilucion recomendada": "1:10",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "Hasta 634 µg/dL para muestras diluidas a 1/10"
+  "Valor Maximo Reportable": "Hasta 634 µg\/dL para muestras diluidas a 1\/10"
  },
  {
   "Analito": "Creatina Kinasa",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "7 U/L",
-  "Límite de Detección (LD)": "7 U/L",
-  "Límite de Cuantificación (LC)": "7 U/L",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "7 U\/L",
+  "Límite de Detección (LD)": "7 U\/L",
+  "Límite de Cuantificación (LC)": "7 U\/L",
   "Dilucion recomendada": "1:11",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "22000 U/L (2000 U/L x 11)"
+  "Valor Maximo Reportable": "22000 U\/L (2000 U\/L x 11)"
  },
  {
   "Analito": "Creatina Kinasa MB",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.1 ng/mL",
-  "Límite de Detección (LD)": "0.3 ng/mL",
-  "Límite de Cuantificación (LC)": "1 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.1 ng\/mL",
+  "Límite de Detección (LD)": "0.3 ng\/mL",
+  "Límite de Cuantificación (LC)": "1 ng\/mL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Diluyente MultiAssay",
-  "Valor Maximo Reportable": "600 ng/mL (300 ng/mL x 2)"
+  "Valor Maximo Reportable": "600 ng\/mL (300 ng\/mL x 2)"
  },
  {
   "Analito": "Creatinina",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "0.17 mg/dL",
-  "Límite de Detección (LD)": "0.17 mg/dL",
-  "Límite de Cuantificación (LC)": "0.17 mg/dL",
+  "Límite de Blanco (LB)": "0.17 mg\/dL",
+  "Límite de Detección (LD)": "0.17 mg\/dL",
+  "Límite de Cuantificación (LC)": "0.17 mg\/dL",
   "Dilucion recomendada": "1:5",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "124.5 mg/dl (24.9 mg/dl x 5)"
+  "Valor Maximo Reportable": "124.5 mg\/dl (24.9 mg\/dl x 5)"
  },
  {
   "Analito": "Creatinina",
   "Muestra": "Orina",
-  "Límite de Blanco (LB)": "4.2 mg/dL",
-  "Límite de Detección (LD)": "4.2 mg/dL",
-  "Límite de Cuantificación (LC)": "4.2 mg/dL",
+  "Límite de Blanco (LB)": "4.2 mg\/dL",
+  "Límite de Detección (LD)": "4.2 mg\/dL",
+  "Límite de Cuantificación (LC)": "4.2 mg\/dL",
   "Dilucion recomendada": "1:3",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "6000 mg/L (2000 mg/L×3)"
+  "Valor Maximo Reportable": "6000 mg\/L (2000 mg\/L×3)"
  },
  {
   "Analito": "CYFRA 21-1",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.1 ng/mL",
-  "Límite de Detección (LD)": "0.3 ng/mL",
-  "Límite de Cuantificación (LC)": "0.5 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.1 ng\/mL",
+  "Límite de Detección (LD)": "0.3 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.5 ng\/mL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "> 1000 ng/mL"
+  "Valor Maximo Reportable": "> 1000 ng\/mL"
  },
  {
   "Analito": "Digoxina",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "0.2 ng/mL",
-  "Límite de Detección (LD)": "0.3 ng/mL",
-  "Límite de Cuantificación (LC)": "0.4 ng/mL",
+  "Límite de Blanco (LB)": "0.2 ng\/mL",
+  "Límite de Detección (LD)": "0.3 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.4 ng\/mL",
   "Dilucion recomendada": "1 + 1 (manual)",
-  "Diluyente": "Preciset TDM I Diluyente (0 ng/mL)",
+  "Diluyente": "Preciset TDM I Diluyente (0 ng\/mL)",
   "Valor Maximo Reportable": "Multiplicar el resultado por 2"
  },
  {
   "Analito": "DHEA-S",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.1 µg/dL",
-  "Límite de Detección (LD)": "0.2 µg/dL",
-  "Límite de Cuantificación (LC)": "3 µg/dL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.1 µg\/dL",
+  "Límite de Detección (LD)": "0.2 µg\/dL",
+  "Límite de Cuantificación (LC)": "3 µg\/dL",
   "Dilucion recomendada": "1:5",
   "Diluyente": "Muestras humanas con baja concentración de analito",
-  "Valor Maximo Reportable": "Hasa 5000 µg/dL para muestras diluidas a 1/5"
+  "Valor Maximo Reportable": "Hasa 5000 µg\/dL para muestras diluidas a 1\/5"
  },
  {
   "Analito": "Estradiol",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "3 pg/mL",
-  "Límite de Detección (LD)": "5 pg/mL",
-  "Límite de Cuantificación (LC)": "25 pg/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "3 pg\/mL",
+  "Límite de Detección (LD)": "5 pg\/mL",
+  "Límite de Cuantificación (LC)": "25 pg\/mL",
   "Dilucion recomendada": "1:10",
   "Diluyente": "Diluyente MultiAssay",
-  "Valor Maximo Reportable": "Hasta 30000 pg/mL para muestras diluidas de 1:10"
+  "Valor Maximo Reportable": "Hasta 30000 pg\/mL para muestras diluidas de 1:10"
  },
  {
   "Analito": "Etanol",
-  "Muestra": "Suero, Orina / Plasma (heparina litio, EDTA D o EDTA/Oxalato con Fluoruro)",
-  "Límite de Blanco (LB)": "10.1 mg/dL",
-  "Límite de Detección (LD)": "10.1 mg/dL",
-  "Límite de Cuantificación (LC)": "10.1 mg/dL",
+  "Muestra": "Suero, Orina \/ Plasma (heparina litio, EDTA D o EDTA\/Oxalato con Fluoruro)",
+  "Límite de Blanco (LB)": "10.1 mg\/dL",
+  "Límite de Detección (LD)": "10.1 mg\/dL",
+  "Límite de Cuantificación (LC)": "10.1 mg\/dL",
   "Dilucion recomendada": "1:2",
-  "Diluyente": "N/A (Volumen reducido)",
-  "Valor Maximo Reportable": "996 mg/dL (498 mg/dL x 2)"
+  "Diluyente": "N\/A (Volumen reducido)",
+  "Valor Maximo Reportable": "996 mg\/dL (498 mg\/dL x 2)"
  },
  {
   "Analito": "Factores Reumatoideo",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "10 UI/mL",
-  "Límite de Detección (LD)": "10 UI/mL",
-  "Límite de Cuantificación (LC)": "10 UI/mL",
+  "Límite de Blanco (LB)": "10 UI\/mL",
+  "Límite de Detección (LD)": "10 UI\/mL",
+  "Límite de Cuantificación (LC)": "10 UI\/mL",
   "Dilucion recomendada": "1:5",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "650 UI/mL (130 UI/mL x 5)"
+  "Valor Maximo Reportable": "650 UI\/mL (130 UI\/mL x 5)"
  },
  {
   "Analito": "Fenobarbital",
-  "Muestra": "Suero, Plasma (EDTA D/T, heparina Na, heparina litio)",
-  "Límite de Blanco (LB)": "1.2 µg/mL",
-  "Límite de Detección (LD)": "2.4 µg/mL",
-  "Límite de Cuantificación (LC)": "3.0 µg/mL",
+  "Muestra": "Suero, Plasma (EDTA D\/T, heparina Na, heparina litio)",
+  "Límite de Blanco (LB)": "1.2 µg\/mL",
+  "Límite de Detección (LD)": "2.4 µg\/mL",
+  "Límite de Cuantificación (LC)": "3.0 µg\/mL",
   "Dilucion recomendada": "1:2",
-  "Diluyente": "Preciset TDM I (0 ug/ml)",
-  "Valor Maximo Reportable": "120 µg/mL (60 µg/mL x 2)"
+  "Diluyente": "Preciset TDM I (0 ug\/ml)",
+  "Valor Maximo Reportable": "120 µg\/mL (60 µg\/mL x 2)"
  },
  {
   "Analito": "Ferritina",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.25 ng/mL",
-  "Límite de Detección (LD)": "0.50 ng/mL",
-  "Límite de Cuantificación (LC)": "2.0 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.25 ng\/mL",
+  "Límite de Detección (LD)": "0.50 ng\/mL",
+  "Límite de Cuantificación (LC)": "2.0 ng\/mL",
   "Dilucion recomendada": "1:50",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "Hasta 100000 ng/mL en muestras diluidas al 1/50."
+  "Valor Maximo Reportable": "Hasta 100000 ng\/mL en muestras diluidas al 1\/50."
  },
  {
   "Analito": "Folato",
   "Muestra": "Suero, Plasma (heparina litio)",
-  "Límite de Blanco (LB)": "0.6 ng/ml",
-  "Límite de Detección (LD)": "1.2 ng/ml",
-  "Límite de Cuantificación (LC)": "2 ng/ml",
+  "Límite de Blanco (LB)": "0.6 ng\/ml",
+  "Límite de Detección (LD)": "1.2 ng\/ml",
+  "Límite de Cuantificación (LC)": "2 ng\/ml",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "Hasta 40.0 ng/mL en muestras diluidas al 1/2"
+  "Valor Maximo Reportable": "Hasta 40.0 ng\/mL en muestras diluidas al 1\/2"
  },
  {
   "Analito": "Folato RBC",
   "Muestra": "Hemolizado de sangre total (heparina Na o EDTA T)",
-  "Límite de Blanco (LB)": "45 ng/mL ",
-  "Límite de Detección (LD)": "70 ng/mL ",
-  "Límite de Cuantificación (LC)": "120 ng/mL ",
+  "Límite de Blanco (LB)": "45 ng\/mL ",
+  "Límite de Detección (LD)": "70 ng\/mL ",
+  "Límite de Cuantificación (LC)": "120 ng\/mL ",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Elecsys Folate RBC Hemolyzing Reagent (solución de ácido ascórbico al 0.2 %)",
   "Valor Maximo Reportable": "Multiplicar por 2"
@@ -472,362 +482,362 @@
  {
   "Analito": "Fosfatasa Acida",
   "Muestra": "Suero",
-  "Límite de Blanco (LB)": "0.5 U/L",
-  "Límite de Detección (LD)": "0.5 U/L",
-  "Límite de Cuantificación (LC)": "0.5 U/L",
+  "Límite de Blanco (LB)": "0.5 U\/L",
+  "Límite de Detección (LD)": "0.5 U\/L",
+  "Límite de Cuantificación (LC)": "0.5 U\/L",
   "Dilucion recomendada": "1:3",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "> 600 U/L"
+  "Valor Maximo Reportable": "> 600 U\/L"
  },
  {
   "Analito": "Fosfatasa Alcalina",
   "Muestra": "Suero, Plasma (heparina litio)",
-  "Límite de Blanco (LB)": "5 U/L",
-  "Límite de Detección (LD)": "5 U/L",
-  "Límite de Cuantificación (LC)": "5 U/L",
+  "Límite de Blanco (LB)": "5 U\/L",
+  "Límite de Detección (LD)": "5 U\/L",
+  "Límite de Cuantificación (LC)": "5 U\/L",
   "Dilucion recomendada": "1:5",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "6000 U/L (1200 U/L x 5)"
+  "Valor Maximo Reportable": "6000 U\/L (1200 U\/L x 5)"
  },
  {
   "Analito": "Fosforo Inorgánico",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "0.31 mg/dL",
-  "Límite de Detección (LD)": "0.31 mg/dL",
-  "Límite de Cuantificación (LC)": "0.31 mg/dL",
+  "Límite de Blanco (LB)": "0.31 mg\/dL",
+  "Límite de Detección (LD)": "0.31 mg\/dL",
+  "Límite de Cuantificación (LC)": "0.31 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "40 mg/dL (20 mg/dL x 2)"
+  "Valor Maximo Reportable": "40 mg\/dL (20 mg\/dL x 2)"
  },
  {
   "Analito": "Fosforo Inorgánico",
   "Muestra": "Orina",
-  "Límite de Blanco (LB)": "3.4 mg/dL",
-  "Límite de Detección (LD)": "3.4 mg/dL",
-  "Límite de Cuantificación (LC)": "3.4 mg/dL",
+  "Límite de Blanco (LB)": "3.4 mg\/dL",
+  "Límite de Detección (LD)": "3.4 mg\/dL",
+  "Límite de Cuantificación (LC)": "3.4 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "570 mg/dL (285 mg/dL x 2)"
+  "Valor Maximo Reportable": "570 mg\/dL (285 mg\/dL x 2)"
  },
  {
   "Analito": "FSH",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.1 mUI/mL",
-  "Límite de Detección (LD)": "0.3 mUI/mL",
-  "Límite de Cuantificación (LC)": "1 mUI/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.1 mUI\/mL",
+  "Límite de Detección (LD)": "0.3 mUI\/mL",
+  "Límite de Cuantificación (LC)": "1 mUI\/mL",
   "Dilucion recomendada": "No necesaria",
-  "Diluyente": "N/A",
-  "Valor Maximo Reportable": "> 200 mUI/mL."
+  "Diluyente": "N\/A",
+  "Valor Maximo Reportable": "> 200 mUI\/mL."
  },
  {
   "Analito": "FT3",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.260 pg/mL",
-  "Límite de Detección (LD)": "0.390 pg/mL",
-  "Límite de Cuantificación (LC)": "0.976 pg/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.260 pg\/mL",
+  "Límite de Detección (LD)": "0.390 pg\/mL",
+  "Límite de Cuantificación (LC)": "0.976 pg\/mL",
   "Dilucion recomendada": "No diluir",
-  "Diluyente": "N/A",
-  "Valor Maximo Reportable": "> 32.55 pg/mL"
+  "Diluyente": "N\/A",
+  "Valor Maximo Reportable": "> 32.55 pg\/mL"
  },
  {
   "Analito": "FT4",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.0233 ng/dl",
-  "Límite de Detección (LD)": "0.0388 ng/mL",
-  "Límite de Cuantificación (LC)": "0.1009 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.0233 ng\/dl",
+  "Límite de Detección (LD)": "0.0388 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.1009 ng\/mL",
   "Dilucion recomendada": "No diluir",
-  "Diluyente": "N/A",
-  "Valor Maximo Reportable": "> 7.7688 ng/mL"
+  "Diluyente": "N\/A",
+  "Valor Maximo Reportable": "> 7.7688 ng\/mL"
  },
  {
   "Analito": "Gamma Glutamiltransferasa",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "3 U/L ",
-  "Límite de Detección (LD)": "3 U/L ",
-  "Límite de Cuantificación (LC)": "3 U/L ",
+  "Límite de Blanco (LB)": "3 U\/L ",
+  "Límite de Detección (LD)": "3 U\/L ",
+  "Límite de Cuantificación (LC)": "3 U\/L ",
   "Dilucion recomendada": "1:11",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "13200 U/L (1200 U/L x 11)"
+  "Valor Maximo Reportable": "13200 U\/L (1200 U\/L x 11)"
  },
  {
   "Analito": "Glucosa",
-  "Muestra": "Suero, Orina, LCR / Plasma (heparina litio, EDTA D, EDTA/Fluoruro, Oxalato/Fluoruro, etc.)",
-  "Límite de Blanco (LB)": "2 mg/dL",
-  "Límite de Detección (LD)": "2 mg/dL",
-  "Límite de Cuantificación (LC)": "2 mg/dL",
+  "Muestra": "Suero, Orina, LCR \/ Plasma (heparina litio, EDTA D, EDTA\/Fluoruro, Oxalato\/Fluoruro, etc.)",
+  "Límite de Blanco (LB)": "2 mg\/dL",
+  "Límite de Detección (LD)": "2 mg\/dL",
+  "Límite de Cuantificación (LC)": "2 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "1500 mg/dL (750 mg/dL x 2)"
+  "Valor Maximo Reportable": "1500 mg\/dL (750 mg\/dL x 2)"
  },
  {
   "Analito": "Haptoglobina",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "10 mg/dL",
-  "Límite de Detección (LD)": "10 mg/dL",
-  "Límite de Cuantificación (LC)": "10 mg/dL",
+  "Límite de Blanco (LB)": "10 mg\/dL",
+  "Límite de Detección (LD)": "10 mg\/dL",
+  "Límite de Cuantificación (LC)": "10 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "1140 mg/dL (570 mg/dLL x 2)"
+  "Valor Maximo Reportable": "1140 mg\/dL (570 mg\/dLL x 2)"
  },
  {
   "Analito": "HCG+ beta",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.100 mUI/mL",
-  "Límite de Detección (LD)": "0.200 mUI/mL",
-  "Límite de Cuantificación (LC)": "0.6 mUI/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.100 mUI\/mL",
+  "Límite de Detección (LD)": "0.200 mUI\/mL",
+  "Límite de Cuantificación (LC)": "0.6 mUI\/mL",
   "Dilucion recomendada": "1:100",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "Hasta 1000000 mUI/mL en muestras diluidas al 1:100"
+  "Valor Maximo Reportable": "Hasta 1000000 mUI\/mL en muestras diluidas al 1:100"
  },
  {
   "Analito": "HGH",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.020 ng/mL",
-  "Límite de Detección (LD)": "0.030 ng/mL",
-  "Límite de Cuantificación (LC)": "0.050 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.020 ng\/mL",
+  "Límite de Detección (LD)": "0.030 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.050 ng\/mL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "Multiplicar el resultado por 2 (Intervalo máx.: 50.0 ng/mL)"
+  "Valor Maximo Reportable": "Multiplicar el resultado por 2  (Intervalo máx.: 50.0 ng\/mL)"
  },
  {
   "Analito": "Hierro",
   "Muestra": "Suero, Plasma (heparina litio). No usar EDTA u oxalato",
-  "Límite de Blanco (LB)": "5.03 µg/dL",
-  "Límite de Detección (LD)": "5.03 µg/dL",
-  "Límite de Cuantificación (LC)": "5.03 µg/dL",
+  "Límite de Blanco (LB)": "5.03 µg\/dL",
+  "Límite de Detección (LD)": "5.03 µg\/dL",
+  "Límite de Cuantificación (LC)": "5.03 µg\/dL",
   "Dilucion recomendada": "1:2.1",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "21000 ug/dL (1000 ug/dL x 2.1)"
+  "Valor Maximo Reportable": "21000 ug\/dL (1000 ug\/dL x 2.1)"
  },
  {
   "Analito": "Inmunoglobulina A",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "5 mg/dL",
-  "Límite de Detección (LD)": "5 mg/dL",
-  "Límite de Cuantificación (LC)": "5 mg/dL",
+  "Límite de Blanco (LB)": "5 mg\/dL",
+  "Límite de Detección (LD)": "5 mg\/dL",
+  "Límite de Cuantificación (LC)": "5 mg\/dL",
   "Dilucion recomendada": "1:8",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "6400 mg/dL (800 mg/dL x 8)"
+  "Valor Maximo Reportable": "6400 mg\/dL (800 mg\/dL x 8)"
  },
  {
   "Analito": "Inmunoglobulina G",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "30 mg/dL",
-  "Límite de Detección (LD)": "50 mg/dL",
-  "Límite de Cuantificación (LC)": "300 mg/dL",
+  "Límite de Blanco (LB)": "30 mg\/dL",
+  "Límite de Detección (LD)": "50 mg\/dL",
+  "Límite de Cuantificación (LC)": "300 mg\/dL",
   "Dilucion recomendada": "1:5.6",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "28000 mg/dL (5000 mg/dL x 5.6)"
+  "Valor Maximo Reportable": "28000 mg\/dL (5000 mg\/dL x 5.6)"
  },
  {
   "Analito": "Inmunoglobulina IgE",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.100 UI/mL",
-  "Límite de Detección (LD)": "0.200 UI/mL",
-  "Límite de Cuantificación (LC)": "0.800 UI/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.100 UI\/mL",
+  "Límite de Detección (LD)": "0.200 UI\/mL",
+  "Límite de Cuantificación (LC)": "0.800 UI\/mL",
   "Dilucion recomendada": "1:20",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "Hasta 50000 UI/mL diluidos a 1/20."
+  "Valor Maximo Reportable": "Hasta 50000 UI\/mL  diluidos a 1\/20."
  },
  {
   "Analito": "Inmunoglobulina M",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "5 mg/dL",
-  "Límite de Detección (LD)": "5 mg/dL",
-  "Límite de Cuantificación (LC)": "250 mg/dL",
+  "Límite de Blanco (LB)": "5 mg\/dL",
+  "Límite de Detección (LD)": "5 mg\/dL",
+  "Límite de Cuantificación (LC)": "250 mg\/dL",
   "Dilucion recomendada": "1:9",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "5850 mg/dL (650 mg/dL x 9)"
+  "Valor Maximo Reportable": "5850 mg\/dL (650 mg\/dL x 9)"
  },
  {
   "Analito": "Insulina",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.2 µU/mL ",
-  "Límite de Detección (LD)": "0.4 µU/mL",
-  "Límite de Cuantificación (LC)": "1 µU/mL ",
-  "Dilucion recomendada": "N/A",
-  "Diluyente": "N/A",
-  "Valor Maximo Reportable": "> 1000 µU/mL."
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.2 µU\/mL ",
+  "Límite de Detección (LD)": "0.4 µU\/mL",
+  "Límite de Cuantificación (LC)": "1 µU\/mL ",
+  "Dilucion recomendada": "N\/A",
+  "Diluyente": "N\/A",
+  "Valor Maximo Reportable": "> 1000 µU\/mL."
  },
  {
   "Analito": "Interleucina 6 (IL 6)",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "1.0 pg/mL",
-  "Límite de Detección (LD)": "1.5 pg/mL",
-  "Límite de Cuantificación (LC)": "3.5 pg/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "1.0 pg\/mL",
+  "Límite de Detección (LD)": "1.5 pg\/mL",
+  "Límite de Cuantificación (LC)": "3.5 pg\/mL",
   "Dilucion recomendada": "1:10",
   "Diluyente": "Diluyente MultiAssay",
-  "Valor Maximo Reportable": "Hasta 50000 pg/mL en las muestras diluidas al 1:10"
+  "Valor Maximo Reportable": "Hasta 50000 pg\/mL en las muestras diluidas al 1:10"
  },
  {
   "Analito": "Lactato Deshidrogenasa",
   "Muestra": "Suero, Plasma (heparina litio)",
-  "Límite de Blanco (LB)": "10 U/L ",
-  "Límite de Detección (LD)": "10 U/L ",
-  "Límite de Cuantificación (LC)": "10 U/L ",
+  "Límite de Blanco (LB)": "10 U\/L ",
+  "Límite de Detección (LD)": "10 U\/L ",
+  "Límite de Cuantificación (LC)": "10 U\/L ",
   "Dilucion recomendada": "1:2.5",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "2500 U/L (1000 U/L x 2.5)"
+  "Valor Maximo Reportable": "2500 U\/L (1000 U\/L x 2.5)"
  },
  {
   "Analito": "LH",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.1 mUI/mL",
-  "Límite de Detección (LD)": "0.3 mUI/mL",
-  "Límite de Cuantificación (LC)": "1 mUI/mL",
-  "Dilucion recomendada": "N/A",
-  "Diluyente": "N/A",
-  "Valor Maximo Reportable": "> 200 mUI/mL"
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.1 mUI\/mL",
+  "Límite de Detección (LD)": "0.3 mUI\/mL",
+  "Límite de Cuantificación (LC)": "1 mUI\/mL",
+  "Dilucion recomendada": "N\/A",
+  "Diluyente": "N\/A",
+  "Valor Maximo Reportable": "> 200 mUI\/mL"
  },
  {
   "Analito": "Lipasa",
   "Muestra": "Suero, Plasma (heparina litio)",
-  "Límite de Blanco (LB)": "3 U/L ",
-  "Límite de Detección (LD)": "3 U/L ",
-  "Límite de Cuantificación (LC)": "3 U/L ",
+  "Límite de Blanco (LB)": "3 U\/L ",
+  "Límite de Detección (LD)": "3 U\/L ",
+  "Límite de Cuantificación (LC)": "3 U\/L ",
   "Dilucion recomendada": "1:10",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "3000 U/L (300 U/L x 10)"
+  "Valor Maximo Reportable": "3000 U\/L (300 U\/L x 10)"
  },
  {
   "Analito": "Litio",
   "Muestra": "Suero, Plasma (EDTA D, heparina Na). No usar heparina litio",
-  "Límite de Blanco (LB)": "0.03 mmol/L",
-  "Límite de Detección (LD)": "0.05 mmol/L ",
-  "Límite de Cuantificación (LC)": "0.10 mmol/L",
+  "Límite de Blanco (LB)": "0.03 mmol\/L",
+  "Límite de Detección (LD)": "0.05 mmol\/L ",
+  "Límite de Cuantificación (LC)": "0.10 mmol\/L",
   "Dilucion recomendada": "1:2",
   "Diluyente": "H2O",
-  "Valor Maximo Reportable": "6.00 mmol/L (3.00 mmol/L x 2)"
+  "Valor Maximo Reportable": "6.00 mmol\/L (3.00 mmol\/L x 2)"
  },
  {
   "Analito": "Magnesio",
   "Muestra": "Suero, Plasma (heparina litio). Evitar EDTA, Fluoruro, Oxalato",
-  "Límite de Blanco (LB)": "0.122 mg/dL",
-  "Límite de Detección (LD)": "0.243 mg/dL",
-  "Límite de Cuantificación (LC)": "0.243 mg/dL",
+  "Límite de Blanco (LB)": "0.122 mg\/dL",
+  "Límite de Detección (LD)": "0.243 mg\/dL",
+  "Límite de Cuantificación (LC)": "0.243 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "9.72 mg/dL(4.86 mg/dL x 2)"
+  "Valor Maximo Reportable": "9.72 mg\/dL(4.86 mg\/dL x 2)"
  },
  {
   "Analito": "Magnesio",
   "Muestra": "Orina",
-  "Límite de Blanco (LB)": "0.68 mg/dL",
-  "Límite de Detección (LD)": "1.36 mg/dL",
-  "Límite de Cuantificación (LC)": "1.36 mg/dL",
+  "Límite de Blanco (LB)": "0.68 mg\/dL",
+  "Límite de Detección (LD)": "1.36 mg\/dL",
+  "Límite de Cuantificación (LC)": "1.36 mg\/dL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "53.4 mg/dL (26.7 mg/dL x 2)"
+  "Valor Maximo Reportable": "53.4 mg\/dL (26.7 mg\/dL x 2)"
  },
  {
   "Analito": "Potasio (K⁺)",
   "Muestra": "Suero, Plasma (con heparina de litio) es preferible al suero. No deben utilizarse muestras hemolizadas porque la concentración de potasio en eritrocitos es 25 veces mayor que en plasma normal, resultando en valores falsamente altos.",
-  "Límite de Blanco (LB)": "1 mmol/L",
-  "Límite de Detección (LD)": "1 mmol/L",
-  "Límite de Cuantificación (LC)": "1.5 mmol/L",
-  "Dilucion recomendada": "15 µL de muestra / 450 µL de Diluyente",
+  "Límite de Blanco (LB)": "1 mmol\/L",
+  "Límite de Detección (LD)": "1 mmol\/L",
+  "Límite de Cuantificación (LC)": "1.5 mmol\/L",
+  "Dilucion recomendada": "15 µL de muestra \/ 450 µL de Diluyente",
   "Diluyente": "ISE Diluyente Gen.2",
-  "Valor Maximo Reportable": "10 mmol/L"
+  "Valor Maximo Reportable": "10 mmol\/L"
  },
  {
   "Analito": "Potasio (K⁺)",
   "Muestra": "Orina",
-  "Límite de Blanco (LB)": "0.16 mmol/L",
-  "Límite de Detección (LD)": "0.21 mmol/L",
-  "Límite de Cuantificación (LC)": "0.89 mmol/L",
-  "Dilucion recomendada": "15 µL de muestra / 450 µL de Diluyente",
+  "Límite de Blanco (LB)": "0.16 mmol\/L",
+  "Límite de Detección (LD)": "0.21 mmol\/L",
+  "Límite de Cuantificación (LC)": "0.89 mmol\/L",
+  "Dilucion recomendada": "15 µL de muestra \/ 450 µL de Diluyente",
   "Diluyente": "ISE Diluyente Gen.2",
-  "Valor Maximo Reportable": "150 mmol/L"
+  "Valor Maximo Reportable": "150 mmol\/L"
  },
  {
   "Analito": "Procalcitonina",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.015 ng/mL",
-  "Límite de Detección (LD)": "0.02 ng/mL",
-  "Límite de Cuantificación (LC)": "0.06 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.015 ng\/mL",
+  "Límite de Detección (LD)": "0.02 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.06 ng\/mL",
   "Dilucion recomendada": "1:4",
   "Diluyente": "Suero o plasma humano negativo para la PCT",
   "Valor Maximo Reportable": "Multiplicar por 4"
  },
  {
   "Analito": "Progesterona",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.025 ng/mL",
-  "Límite de Detección (LD)": "0.05 ng/mL",
-  "Límite de Cuantificación (LC)": "0.2 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.025 ng\/mL",
+  "Límite de Detección (LD)": "0.05 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.2 ng\/mL",
   "Dilucion recomendada": "1:10",
   "Diluyente": "Elecsys Progesterone Diluyente o suero humano con concentración baja",
-  "Valor Maximo Reportable": "Multiplicar resultados por 10 (Intervalo máx.: 60 ng/mL)"
+  "Valor Maximo Reportable": "Multiplicar resultados por 10 (Intervalo máx.: 60 ng\/mL)"
  },
  {
   "Analito": "Prolactina",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.047 ng/mL",
-  "Límite de Detección (LD)": "0.094 ng/mL",
-  "Límite de Cuantificación (LC)": "0.940 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.047 ng\/mL",
+  "Límite de Detección (LD)": "0.094 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.940 ng\/mL",
   "Dilucion recomendada": "1:10",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "Hasta 4700 ng/mL para muestras diluidas 10 veces"
+  "Valor Maximo Reportable": "Hasta 4700 ng\/mL para muestras diluidas 10 veces"
  },
  {
   "Analito": "Proteína C Reactiva",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.2 mg/L",
-  "Límite de Detección (LD)": "0.3 mg/L",
-  "Límite de Cuantificación (LC)": "0.6 mg/L ",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.2 mg\/L",
+  "Límite de Detección (LD)": "0.3 mg\/L",
+  "Límite de Cuantificación (LC)": "0.6 mg\/L ",
   "Dilucion recomendada": "1:2",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "700 mg/L (350 mg/L x 2)"
+  "Valor Maximo Reportable": "700 mg\/L (350 mg\/L x 2)"
  },
  {
   "Analito": "Proteína C Reactiva HS",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.15 mg/L",
-  "Límite de Detección (LD)": "0.15 mg/L ",
-  "Límite de Cuantificación (LC)": "0.30 mg/L ",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.15 mg\/L",
+  "Límite de Detección (LD)": "0.15 mg\/L ",
+  "Límite de Cuantificación (LC)": "0.30 mg\/L ",
   "Dilucion recomendada": "1:15",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "300 mg/L (20.0 mg/L x 15)"
+  "Valor Maximo Reportable": "300 mg\/L (20.0 mg\/L x 15)"
  },
  {
   "Analito": "Proteína Total",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.2 g/dL",
-  "Límite de Detección (LD)": "0.2 g/dL",
-  "Límite de Cuantificación (LC)": "0.3 g/dL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.2 g\/dL",
+  "Límite de Detección (LD)": "0.2 g\/dL",
+  "Límite de Cuantificación (LC)": "0.3 g\/dL",
   "Dilucion recomendada": "1:3",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "36 g/dL (12 g/dL x 3)"
+  "Valor Maximo Reportable": "36 g\/dL (12 g\/dL x 3)"
  },
  {
-  "Analito": "Proteinas Total Orina/LCR",
+  "Analito": "Proteinas Total Orina\/LCR",
   "Muestra": "Orina, LCR",
-  "Límite de Blanco (LB)": "40 mg/L",
-  "Límite de Detección (LD)": "40 mg/L",
-  "Límite de Cuantificación (LC)": "40 mg/L",
+  "Límite de Blanco (LB)": "40 mg\/L",
+  "Límite de Detección (LD)": "40 mg\/L",
+  "Límite de Cuantificación (LC)": "40 mg\/L",
   "Dilucion recomendada": "1:3",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "6000 mg/L (2000 × 3)"
+  "Valor Maximo Reportable": "6000 mg\/L (2000 × 3)"
  },
  {
   "Analito": "PSA libre",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.01 ng/mL",
-  "Límite de Detección (LD)": "0.016 ng/mL",
-  "Límite de Cuantificación (LC)": "0.018 ng/mL",
-  "Dilucion recomendada": "N/A",
-  "Diluyente": "N/A",
-  "Valor Maximo Reportable": "> 50 ng/mL"
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.01 ng\/mL",
+  "Límite de Detección (LD)": "0.016 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.018 ng\/mL",
+  "Dilucion recomendada": "N\/A",
+  "Diluyente": "N\/A",
+  "Valor Maximo Reportable": "> 50 ng\/mL"
  },
  {
   "Analito": "PSA Total",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.006 ng/mL",
-  "Límite de Detección (LD)": "0.010 ng/mL",
-  "Límite de Cuantificación (LC)": "0.014 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.006 ng\/mL",
+  "Límite de Detección (LD)": "0.010 ng\/mL  (si es < 0.006 ng\/ml reportar <0.010 ng\/ml)",
+  "Límite de Cuantificación (LC)": "0.014 ng\/mL  (si es 0.008 ng\/ml o 0.013 ng\/ml reportar <0.014 ng\/ml)",
   "Dilucion recomendada": "1:50",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "5000 ng/mL"
+  "Valor Maximo Reportable": "5000 ng\/mL"
  },
  {
   "Analito": "Sodio (Na⁺)",
@@ -835,136 +845,136 @@
   "Límite de Blanco (LB)": "NA",
   "Límite de Detección (LD)": "NA",
   "Límite de Cuantificación (LC)": "NA",
-  "Dilucion recomendada": "15 µL de muestra / 450 µL de Diluyente",
+  "Dilucion recomendada": "15 µL de muestra \/ 450 µL de Diluyente",
   "Diluyente": "ISE Diluyente Gen.2",
-  "Valor Maximo Reportable": "180 mmol/L"
+  "Valor Maximo Reportable": "180 mmol\/L"
  },
  {
   "Analito": "Sodio (Na⁺)",
   "Muestra": "Orina",
-  "Límite de Blanco (LB)": "3.5 mmol/L",
-  "Límite de Detección (LD)": "4.5 mmol/L",
-  "Límite de Cuantificación (LC)": "12.2 mmol/L",
-  "Dilucion recomendada": "15 µL de muestra / 450 µL de Diluyente",
+  "Límite de Blanco (LB)": "3.5 mmol\/L",
+  "Límite de Detección (LD)": "4.5 mmol\/L",
+  "Límite de Cuantificación (LC)": "12.2 mmol\/L",
+  "Dilucion recomendada": "15 µL de muestra \/ 450 µL de Diluyente",
   "Diluyente": "ISE Diluyente Gen.2",
-  "Valor Maximo Reportable": "375 mmol/L"
+  "Valor Maximo Reportable": "375 mmol\/L"
  },
  {
   "Analito": "T3",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.130 ng/mL",
-  "Límite de Detección (LD)": "0.195 ng/mL",
-  "Límite de Cuantificación (LC)": "0.260 ng/mL",
-  "Dilucion recomendada": "N/A",
-  "Diluyente": "N/A",
-  "Valor Maximo Reportable": "> 6.51 ng/ml"
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.130 ng\/mL",
+  "Límite de Detección (LD)": "0.195 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.260 ng\/mL",
+  "Dilucion recomendada": "N\/A",
+  "Diluyente": "N\/A",
+  "Valor Maximo Reportable": "> 6.51 ng\/ml"
  },
  {
   "Analito": "T4",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.388 µg/dL",
-  "Límite de Detección (LD)": "0.420 µg/dL",
-  "Límite de Cuantificación (LC)": "1.17 µg/dL",
-  "Dilucion recomendada": "N/A",
-  "Diluyente": "N/A",
-  "Valor Maximo Reportable": "> 24.86 ug/mL"
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.388 µg\/dL",
+  "Límite de Detección (LD)": "0.420 µg\/dL",
+  "Límite de Cuantificación (LC)": "1.17 µg\/dL",
+  "Dilucion recomendada": "N\/A",
+  "Diluyente": "N\/A",
+  "Valor Maximo Reportable": "> 24.86 ug\/mL"
  },
  {
   "Analito": "Testosterona",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.015 ng/mL",
-  "Límite de Detección (LD)": "0.025 ng/mL",
-  "Límite de Cuantificación (LC)": "0.120 ng/mL",
-  "Dilucion recomendada": "N/A",
-  "Diluyente": "N/A",
-  "Valor Maximo Reportable": "> 15.0 ng/mL."
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.015 ng\/mL",
+  "Límite de Detección (LD)": "0.025 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.120 ng\/mL",
+  "Dilucion recomendada": "N\/A",
+  "Diluyente": "N\/A",
+  "Valor Maximo Reportable": "> 15.0 ng\/mL."
  },
  {
   "Analito": "Tiroglobulina",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.02 ng/mL",
-  "Límite de Detección (LD)": "0.04 ng/mL",
-  "Límite de Cuantificación (LC)": "0.1 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.02 ng\/mL",
+  "Límite de Detección (LD)": "0.04 ng\/mL",
+  "Límite de Cuantificación (LC)": "0.1 ng\/mL",
   "Dilucion recomendada": "1:10",
   "Diluyente": "Diluyente MultiAssay",
-  "Valor Maximo Reportable": "Hasta 5000 ng/mL para muestras diluidas a 1/10"
+  "Valor Maximo Reportable": "Hasta 5000 ng\/mL para muestras diluidas a 1\/10"
  },
  {
   "Analito": "Transferrina",
   "Muestra": "Suero, Plasma (heparina litio). No usar EDTA o Citrato",
-  "Límite de Blanco (LB)": "10 mg/dL",
-  "Límite de Detección (LD)": "10 mg/dL",
-  "Límite de Cuantificación (LC)": "10 mg/dL",
+  "Límite de Blanco (LB)": "10 mg\/dL",
+  "Límite de Detección (LD)": "10 mg\/dL",
+  "Límite de Cuantificación (LC)": "10 mg\/dL",
   "Dilucion recomendada": "1:1.5",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "780 mg/dL (520 mg/dL x 1.5)"
+  "Valor Maximo Reportable": "780 mg\/dL (520 mg\/dL x 1.5)"
  },
  {
   "Analito": "Transferrina",
   "Muestra": "Orina",
-  "Límite de Blanco (LB)": "0.10 mg/dL",
-  "Límite de Detección (LD)": "0.15 mg/dL",
-  "Límite de Cuantificación (LC)": "0.22 mg/dL",
+  "Límite de Blanco (LB)": "0.10 mg\/dL",
+  "Límite de Detección (LD)": "0.15 mg\/dL",
+  "Límite de Cuantificación (LC)": "0.22 mg\/dL",
   "Dilucion recomendada": "1:3",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "10.5 mg/dL (3.5 mg/dL x 3)"
+  "Valor Maximo Reportable": "10.5 mg\/dL (3.5 mg\/dL x 3)"
  },
  {
   "Analito": "Trigliceridos",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D)",
-  "Límite de Blanco (LB)": "8.85 mg/dL",
-  "Límite de Detección (LD)": "8.85 mg/dL",
-  "Límite de Cuantificación (LC)": "8.85 mg/dL",
+  "Límite de Blanco (LB)": "8.85 mg\/dL",
+  "Límite de Detección (LD)": "8.85 mg\/dL",
+  "Límite de Cuantificación (LC)": "8.85 mg\/dL",
   "Dilucion recomendada": "1:5",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "4425 mg/dL (885 mg/dL x 5)"
+  "Valor Maximo Reportable": "4425 mg\/dL (885 mg\/dL x 5)"
  },
  {
   "Analito": "TSH",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.0025 µUI/mL",
-  "Límite de Detección (LD)": "0.005 µUI/mL",
-  "Límite de Cuantificación (LC)": "0.005 µUI/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "0.0025 µUI\/mL",
+  "Límite de Detección (LD)": "0.005 µUI\/mL",
+  "Límite de Cuantificación (LC)": "0.005 µUI\/mL",
   "Dilucion recomendada": "1:10",
   "Diluyente": "Diluyente MultiAssay",
-  "Valor Maximo Reportable": "Hasta 1000 µUI/mL en muestras diluidas a 1/10"
+  "Valor Maximo Reportable": "Hasta 1000 µUI\/mL en muestras diluidas a 1\/10"
  },
  {
   "Analito": "Urea",
   "Muestra": "Suero, Plasma (heparina litio, EDTA D). No usar heparina de Amonio",
-  "Límite de Blanco (LB)": "3.00 mg/dL",
-  "Límite de Detección (LD)": "3.00 mg/dL",
-  "Límite de Cuantificación (LC)": "3.00 mg/dL",
+  "Límite de Blanco (LB)": "3.00 mg\/dL",
+  "Límite de Detección (LD)": "3.00 mg\/dL",
+  "Límite de Cuantificación (LC)": "3.00 mg\/dL",
   "Dilucion recomendada": "1:3",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "720.72 mg/dL (240.24 mg/dL x 3)"
+  "Valor Maximo Reportable": "720.72 mg\/dL (240.24 mg\/dL x 3)"
  },
  {
   "Analito": "Urea",
   "Muestra": "Orina",
-  "Límite de Blanco (LB)": "6.00 mg/dl",
-  "Límite de Detección (LD)": "6.00 mg/dl",
-  "Límite de Cuantificación (LC)": "6.00 mg/dl",
+  "Límite de Blanco (LB)": "6.00 mg\/dl",
+  "Límite de Detección (LD)": "6.00 mg\/dl",
+  "Límite de Cuantificación (LC)": "6.00 mg\/dl",
   "Dilucion recomendada": "1:1.8",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "21621.6 mg/dL (12012 mg/dL x 1.8)"
+  "Valor Maximo Reportable": "21621.6 mg\/dL (12012 mg\/dL x 1.8)"
  },
  {
   "Analito": "Vitamina B12",
-  "Muestra": "Suero, Plasma (heparina de litio/sodio, EDTA D/T",
-  "Límite de Blanco (LB)": "50 pg/mL",
-  "Límite de Detección (LD)": "100 pg/mL",
-  "Límite de Cuantificación (LC)": "150 pg/mL ",
+  "Muestra": "Suero, Plasma (heparina de litio\/sodio, EDTA D\/T",
+  "Límite de Blanco (LB)": "50 pg\/mL",
+  "Límite de Detección (LD)": "100 pg\/mL",
+  "Límite de Cuantificación (LC)": "150 pg\/mL ",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "Hasta 4000 pg/mL diluidos por el factor 2"
+  "Valor Maximo Reportable": "> 2000 pg\/mL"
  },
  {
   "Analito": "Vitamina D Total",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "1.8 ng/mL",
-  "Límite de Detección (LD)": "3.0 ng/mL",
-  "Límite de Cuantificación (LC)": "4.0 ng/mL",
+  "Muestra": "Suero, Plasma (heparina de litio, EDTA D\/T)",
+  "Límite de Blanco (LB)": "1.8 ng\/mL",
+  "Límite de Detección (LD)": "3.0 ng\/mL",
+  "Límite de Cuantificación (LC)": "4.0 ng\/mL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Suero humano con concentración de Vitamina D < 4 ng\/mL",
   "Valor Maximo Reportable": "140 ng\/mL (70 ng\/mL x 2)"
