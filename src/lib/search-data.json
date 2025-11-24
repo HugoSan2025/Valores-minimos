@@ -710,7 +710,7 @@
   "Valor Maximo Reportable": "3000 U/L (300 U/L x 10)"
  },
  {
-  "Analito": "Liito",
+  "Analito": "Litio",
   "Muestra": "Suero, Plasma (EDTA D, heparina Na). No usar heparina litio",
   "Límite de Blanco (LB)": "0.03 mmol/L",
   "Límite de Detección (LD)": "0.05 mmol/L ",
