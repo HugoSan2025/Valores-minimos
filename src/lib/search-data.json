@@ -387,7 +387,7 @@
   "Límite de Cuantificación (LC)": "4.2 mg/dL",
   "Dilucion recomendada": "1:3",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "6000 mg/L (2000 mg/L×3)"
+  "Valor Maximo Reportable": "6000 mg/L (2000 mg/L×3)"
  },
  {
   "Analito": "CYFRA 21-1",
@@ -451,13 +451,13 @@
  },
  {
   "Analito": "Fenitoina",
-  "Muestra": "Suero, Plasma (heparina litio, heparina Na, EDTA D\/T)",
-  "Límite de Blanco (LB)": "0.3 ug\/mL",
-  "Límite de Detección (LD)": "0.6 ug\/mL",
-  "Límite de Cuantificación (LC)": "0.8 ug\/mL",
+  "Muestra": "Suero, Plasma (heparina litio, heparina Na, EDTA D/T)",
+  "Límite de Blanco (LB)": "0.3 ug/mL",
+  "Límite de Detección (LD)": "0.6 ug/mL",
+  "Límite de Cuantificación (LC)": "0.8 ug/mL",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Preciset TDM I ",
-  "Valor Maximo Reportable": "80 ug\/mL (40 ug\/mL x 2)"
+  "Valor Maximo Reportable": "80 ug/mL (40 ug/mL x 2)"
  },
  {
   "Analito": "Fenobarbital",
@@ -487,7 +487,7 @@
   "Límite de Cuantificación (LC)": "2 ng/ml",
   "Dilucion recomendada": "1:2",
   "Diluyente": "Diluyente Universal",
-  "Valor Maximo Reportable": "Hasta 40.0 ng/mL en muestras diluidas al 1/2"
+  "Valor Maximo Reportable": "Hasta 40.0 ng/mL en muestras diluidas al 1/2"
  },
  {
   "Analito": "Folato RBC",
@@ -837,7 +837,7 @@
   "Límite de Cuantificación (LC)": "40 mg/L",
   "Dilucion recomendada": "1:3",
   "Diluyente": "NaCl",
-  "Valor Maximo Reportable": "6000 mg/L (2000 × 3)"
+  "Valor Maximo Reportable": "6000 mg/L (2000 × 3)"
  },
  {
   "Analito": "PSA libre",
@@ -988,15 +988,5 @@
   "Dilucion recomendada": "1:2",
   "Diluyente": "Diluyente Universal",
   "Valor Maximo Reportable": "> 2000 pg/mL"
- },
- {
-  "Analito": "Vitamina D Total",
-  "Muestra": "Suero, Plasma (heparina de litio, EDTA D/T)",
-  "Límite de Blanco (LB)": "1.8 ng/mL",
-  "Límite de Detección (LD)": "3.0 ng/mL",
-  "Límite de Cuantificación (LC)": "4.0 ng/mL",
-  "Dilucion recomendada": "1:2",
-  "Diluyente": "Suero humano con concentración de Vitamina D < 4 ng/mL",
-  "Valor Maximo Reportable": "140 ng/mL (70 ng/mL x 2)"
  }
 ]
