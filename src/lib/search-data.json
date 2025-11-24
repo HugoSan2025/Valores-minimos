@@ -450,16 +450,6 @@
   "Valor Maximo Reportable": "650 UI/mL (130 UI/mL x 5)"
  },
  {
-  "Analito": "Fenitoina",
-  "Muestra": "Suero, Plasma (heparina litio, heparina Na, EDTA D/T)",
-  "Límite de Blanco (LB)": "0.3 ug/mL",
-  "Límite de Detección (LD)": "0.6 ug/mL",
-  "Límite de Cuantificación (LC)": "0.8 ug/mL",
-  "Dilucion recomendada": "1:2",
-  "Diluyente": "Preciset TDM I ",
-  "Valor Maximo Reportable": "80 ug/mL (40 ug/mL x 2)"
- },
- {
   "Analito": "Fenobarbital",
   "Muestra": "Suero, Plasma (EDTA D/T, heparina Na, heparina litio)",
   "Límite de Blanco (LB)": "1.2 µg/mL",
@@ -720,7 +710,7 @@
   "Valor Maximo Reportable": "3000 U/L (300 U/L x 10)"
  },
  {
-  "Analito": "Litio",
+  "Analito": "Liito",
   "Muestra": "Suero, Plasma (EDTA D, heparina Na). No usar heparina litio",
   "Límite de Blanco (LB)": "0.03 mmol/L",
   "Límite de Detección (LD)": "0.05 mmol/L ",
