@@ -31,8 +31,7 @@ export default function SearchSection() {
 
     const lowerCaseQuery = query.toLowerCase();
     const filteredResults = searchData.filter(item => 
-      item.Analito.toLowerCase().includes(lowerCaseQuery) || 
-      item.Muestra.toLowerCase().includes(lowerCaseQuery)
+      item.Analito.toLowerCase().includes(lowerCaseQuery)
     );
     setResults(filteredResults);
   };
@@ -57,7 +56,7 @@ export default function SearchSection() {
           <Input
             type="text"
             id="searchInput"
-            placeholder="Escribe un analito o tipo de muestra para buscar..."
+            placeholder="Escribe un analito para buscar..."
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             onKeyUp={handleSearchKey}
@@ -88,7 +87,7 @@ export default function SearchSection() {
           {hasSearched && query.trim() && results.length === 0 && (
              <div className="bg-destructive/10 border-l-4 border-destructive text-destructive-foreground p-4 rounded-lg">
                 <p className="font-bold">No se encontraron resultados</p>
-                <p>Intenta con otra palabra clave. Por ejemplo: 'Glucosa', 'Orina'.</p>
+                <p>Intenta con otra palabra clave. Por ejemplo: 'Glucosa'.</p>
              </div>
           )}
           {results.length > 0 && (
